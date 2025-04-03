@@ -1,10 +1,6 @@
-# Allsky Camera ![Release](https://img.shields.io/badge/Version-v2024.12.06_02-green.svg) [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=MEBU2KN75G2NG&source=url)
-
-This is the source code for the Allsky Camera project described [on Instructables](http://www.instructables.com/id/Wireless-All-Sky-Camera/).
-&nbsp;  
-<p align="center">
-<img src="https://github.com/AllskyTeam/allsky/blob/master/assets/allsky_camera.png" width="50%" title="Example of an allsky camera">
-</p>
+# Allsky Camera for PI5 amended for SHT31 Temperature and humdidty sensor 
+https://github.com/AllskyTeam/allsky.git
+This is the source code and primary credit for SW: [on Instructables](http://www.instructables.com/id/Wireless-All-Sky-Camera/).
 
 
 <!-- =============================================================================== --> 
